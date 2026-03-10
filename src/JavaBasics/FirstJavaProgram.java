@@ -1,4 +1,4 @@
-
+package JavaBasics;
 public class FirstJavaProgram {
 	//local variables
 	public static void firstMethod() {

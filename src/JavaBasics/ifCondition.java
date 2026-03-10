@@ -1,4 +1,4 @@
-
+package JavaBasics;
 public class ifCondition {
 
 	public static void main(String[] args) {

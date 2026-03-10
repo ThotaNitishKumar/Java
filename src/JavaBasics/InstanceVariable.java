@@ -1,4 +1,4 @@
-// Instance or Class variable 
+package JavaBasics;// Instance or Class variable 
 public class InstanceVariable {
 	
 	static int varSec =98674;

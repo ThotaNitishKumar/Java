@@ -1,4 +1,4 @@
-
+package JavaBasics;
 public class SwitchStatment {
 
 	public static void main(String[] args) {

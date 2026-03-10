@@ -1,4 +1,4 @@
-
+package JavaBasics;
 public class CounterClass {
      int i=10;
      static int j=0;
